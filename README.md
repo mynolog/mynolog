@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=350&text=minholee.log&desc=happy%20hacking)
+![header](https://capsule-render.vercel.app/api?height=350&text=minholee.log&desc=👻%20happy%20hacking)
 
 ### Hi there 👋 I'm Frontend Developer using React and VueJS
 
