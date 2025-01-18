@@ -5,10 +5,7 @@
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://ko.javascript.info/)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![StyledComponents](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
 [![ExpressJS](https://skillicons.dev/icons?i=express)](https://expressjs.com/ko/)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs/)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/ko/docs/Web/HTML/)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/ko/docs/Web/CSS/)
 <br />
