@@ -5,7 +5,7 @@
 ## 👋 About Me
 
 안녕하세요! **의류 업계에서 프론트엔드 개발자로 전향**한 `myno`입니다.
-React, TypeScript 기반으로 UI를 구성하는 걸 좋아하며, 최근에는 Vue와 Express를 활용한 풀스택 프로젝트도 진행 중입니다.  
+`React`, `TypeScript` 기반으로 UI를 구성하는 걸 좋아하며, 최근에는 `Vue.js`와 `Express`를 활용한 풀스택 프로젝트도 진행 중입니다.  
 직접 만든 블로그와 다양한 사이드 프로젝트를 통해 **기술에 대한 고민과 성장**을 기록하고 있습니다.
 
 > ✍️ **기술 블로그**: [https://mynolog.me](https://mynolog.me)  
@@ -15,19 +15,19 @@ React, TypeScript 기반으로 UI를 구성하는 걸 좋아하며, 최근에는
 
 ## 🛠 Tech Stack
 
-#### Frontend - React, Next.js, Vue.js
+#### Frontend - `React`, `Next.js`, `Vue.js`
 [![React](https://skillicons.dev/icons?i=react)](https://ko.react.dev/)
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![VueJS](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-#### Languages - TypeScript
+#### Languages - `TypeScript`
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-#### Styling - TailwindCSS
+#### Styling - `TailwindCSS`
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-#### Backend & Database (Basics) - Express, Supabase, MongoDB
+#### Backend & Database (Basics) - `Express`, `Supabase`, `MongoDB`
 [![ExpressJS](https://skillicons.dev/icons?i=express)](https://expressjs.com/ko/)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/ko-kr/docs/)
-#### Tools & Infra - Git, Vercel
+#### Tools & Infra - `Git`, `Vercel`
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc/)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/docs/)
 
