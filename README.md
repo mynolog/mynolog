@@ -3,9 +3,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mynolog&theme=tokyonight&show_icons=true&rank_icon=github&hide=contribs&custom_title=mynolog's%20GitHub%20Stats" />
 <br />
 <br />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynolog&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-<br />
-<br />
 [![React](https://skillicons.dev/icons?i=react)](https://ko.react.dev/)
 [![VueJS](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
