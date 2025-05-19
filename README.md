@@ -21,14 +21,23 @@
 [![React](https://skillicons.dev/icons?i=react)](https://ko.react.dev/)
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![VueJS](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+
 #### Languages - `TypeScript`
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+
+#### State Management - `Zustand`, `Redux Toolkit(Basic)`
+[![Zustand](https://go-skill-icons.vercel.app/api/icons?i=zustand)](https://zustand.docs.pmnd.rs/getting-started/introduction)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux-toolkit.js.org/)
+
 #### Styling - `TailwindCSS`
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-#### Backend & Database (Basics) - `Express`, `Supabase`, `MongoDB`
+#### Backend & Database (Basics) - `Express`, `MongoDB`, `Supabase`, `Firebase`
 [![ExpressJS](https://skillicons.dev/icons?i=express)](https://expressjs.com/ko/)
-[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/ko-kr/docs/)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs/)
+[![Supabase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/docs?hl=ko)
+
+
 #### Tools & Infra - `Git`, `Vercel`
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc/)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/docs/)
