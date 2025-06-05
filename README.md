@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=mynolog&theme=tokyonight&show_icons=true&rank_icon=github&hide=contribs&custom_title=mynolog's%20GitHub%20Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=mynolog&theme=tokyonight&hide=contribs&custom_title=mynolog's%20GitHub%20Stats" />
 
 <br />
 
