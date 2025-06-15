@@ -10,8 +10,7 @@
 
 또한, 직접 만든 블로그와 다양한 사이드 프로젝트를 통해 **기술에 대한 고민과 성장**을 기록하고 있습니다.
 
-> ✍️ **기술 블로그**: [https://mynolog.me](https://mynolog.me)  
-> 💼 **포트폴리오 정리 중**
+> ✍️ **기술 블로그**: [https://mynolog.me](https://mynolog.me)
 
 <br />
 
