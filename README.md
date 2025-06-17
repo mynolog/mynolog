@@ -30,11 +30,10 @@
 
 #### Styling - `TailwindCSS`
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-#### Backend & Database (Basics) - `Express`, `MongoDB`, `Supabase`, `Firebase`
+#### Backend & Database (Basics) - `Express`, `MongoDB`, `Supabase`
 [![ExpressJS](https://skillicons.dev/icons?i=express)](https://expressjs.com/ko/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/ko-kr/docs/)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/docs/)
-[![Supabase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/docs?hl=ko)
 
 
 #### Tools & Infra - `Git`, `Vercel`
