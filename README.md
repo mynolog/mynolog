@@ -8,12 +8,12 @@
 
 ## 🤝 Open Source Contributions
 ### create-node-app
-- [Create-Node-App/create-node-app#290](https://github.com/Create-Node-App/create-node-app/pull/290) - Added `--skip-install` CLI option flag
-- [Create-Node-App/create-node-app#285](https://github.com/Create-Node-App/create-node-app/pull/285) - Added JSDoc comments to core module functions
+- [Create-Node-App/create-node-app#290](https://github.com/Create-Node-App/create-node-app/pull/290) - Added `--skip-install` CLI option flag **`🟡 Open`**
+- [Create-Node-App/create-node-app#285](https://github.com/Create-Node-App/create-node-app/pull/285) - Added JSDoc comments to core module functions **`🟢 Merged`**
 
 ### ko.react.kr
-- https://github.com/reactjs/ko.react.dev/pull/1255 - Translated official documentation
-- https://github.com/reactjs/ko.react.dev/pull/1252 - Translated official documentation
+- https://github.com/reactjs/ko.react.dev/pull/1255 - Translated official documentation **`🟢 Merged`**
+- https://github.com/reactjs/ko.react.dev/pull/1252 - Translated official documentation **`🟢 Merged`** 
 
 ## 📊 GitHub Stats
 
