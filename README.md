@@ -7,13 +7,13 @@
 </p>
 
 ## 🤝 Open Source Contributions
-### create-node-app
-- https://github.com/Create-Node-App/create-node-app/pull/290 - Added `--skip-install` CLI option flag | **🟢 Merged via [#294](https://github.com/Create-Node-App/create-node-app/pull/294)**
-- https://github.com/Create-Node-App/create-node-app/pull/285 - Added JSDoc comments to core module functions | **🟢 Merged**
+- [create-node-app](https://github.com/Create-Node-App/create-node-app)
+  - Added `--skip-install` CLI option flag [#290](https://github.com/Create-Node-App/create-node-app/pull/290) | **🟢 Merged via [#294](https://github.com/Create-Node-App/create-node-app/pull/294)**
+  - Added JSDoc comments to core module functions [#285](https://github.com/Create-Node-App/create-node-app/pull/285) | **🟢 Merged**
 
-### ko.react.kr
-- https://github.com/reactjs/ko.react.dev/pull/1255 - Translated official documentation | **`🟢 Merged`**
-- https://github.com/reactjs/ko.react.dev/pull/1252 - Translated official documentation | **`🟢 Merged`** 
+- [ko.react.kr](https://github.com/reactjs/ko.react.dev)
+  - Translated hydrateRoot > Error logging in production [#1255](https://github.com/reactjs/ko.react.dev/pull/1255) | **`🟢 Merged`**
+  - Translated createRoot > Error logging in production [#1252](https://github.com/reactjs/ko.react.dev/pull/1252) | **`🟢 Merged`** 
 
 ## 📊 GitHub Stats
 
