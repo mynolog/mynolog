@@ -26,8 +26,3 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mynolog&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=vue)
 <br />
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=mynolog&layout=compact&hide_title=true&langs_count=6&display_format=percent&theme=vue)](https://wakatime.com/@mynolog)
-
-## ⏱️ Coding Activity
-
-[![wakatime](https://wakatime.com/badge/user/3169f4c8-8908-4dff-b7fa-951470783303.svg)](https://wakatime.com/@3169f4c8-8908-4dff-b7fa-951470783303)
-<br />
