@@ -3,7 +3,7 @@
 ## 🛠 Tech Stack
 <p align="left">
   <a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" alt="frontend" /></a>
-  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express,supabase,git" alt="backend & tools" /></a>
+  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express,supabase" alt="backend" /></a>
 </p>
 
 ## 🤝 Open Source Contributions
