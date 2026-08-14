@@ -17,7 +17,7 @@
  
 ## 🚀 Published Packages
 - [@mynopkg/mini-fetch](https://www.npmjs.com/package/@mynopkg/mini-fetch) <sub><img src="https://img.shields.io/npm/v/@mynopkg/mini-fetch?style=flat-square" /></sub>
-  - Minimal TypeScript fetch wrapper for API calls
+  - Minimal fetch wrapper for API calls
 - [@mynopkg/prettier-config](https://www.npmjs.com/package/@mynopkg/prettier-config) <sub><img src="https://img.shields.io/npm/v/@mynopkg/prettier-config?style=flat-square" /></sub>
   - Shared Prettier configuration for mynopkg
 
