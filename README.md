@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&fontColor=1A1B2F&text=mynolog&desc=👻%20happy%20hacking)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&fontColor=A1A1AA&text=mynolog&desc=👻%20happy%20hacking)
 
 ## 🛠 Tech Stack
 <p align="left">
