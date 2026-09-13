@@ -2,8 +2,8 @@
 
 ## 🛠 Tech Stack
 <p align="left">
-  <a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind" alt="frontend" /></a>
-  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express,supabase" alt="backend" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind" alt="frontend" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=supabase,express" alt="backend" /></a>
 </p>
 
 ## 🤝 Open Source Contributions
